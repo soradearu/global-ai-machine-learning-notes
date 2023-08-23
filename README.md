@@ -76,6 +76,7 @@ This is exactly what you do in unsupervised learning. There are lots of data wit
 
 ## Regression
 Imagine you're running a pizza delivery business, and you want to figure out how long it will take for a pizza to be delivered based on the distance between your shop and the customer's location. Regression in machine learning is like using past delivery data to create a mathematical rule that helps you estimate delivery time. You look at the data for past deliveries, where you know the distance and delivery time, and you find a pattern. This pattern helps you predict future delivery times based on the distance, even for new customers. 
+- Key Points
   - **Prediction Tool** :
   - **Linear Relationship** :
   - **Best-Fit Line** :
