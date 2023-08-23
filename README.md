@@ -102,6 +102,14 @@ By asking a series of questions and getting answers, the computer can reach a de
 
 ## Classification
 
+Imagine you're a character in a zombie survival game where you encounter different kinds of zombies. Each zombie belongs to a specific class like "Normal", "Mutated","Special" And you're equipped with a special device that can analyze a zombie's appearance and behavior and determine its class so you will have more chance to survive if you encounter one with more information.
+
+Classification in machine learning is like training this device we have to recognize and classify these zombies automatically. 
+  1. You go out there and gather more data about these zombies like their sizes, how they look,how big they are, do they sprint or walk. 
+  2. After that you label them as "Normal", "Special", "Mutated" and such. 
+  3. Using the collected data and labels, you teach (train) a machine learning model how to associate features with zombies' classes.
+  4. Once the model is trained, you can input the features of a new zombie it hasn't seen before. The model analyzes these features and predicts the class the zombie belongs to based on its learned patterns.
+
 
 - Key points
   - Classification
