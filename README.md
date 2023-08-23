@@ -27,26 +27,26 @@ A repository that contains my notes from Global AI Hub Machine Learning Bootcamp
 Supervised learning is a subcategory of machine learning. You show the program lots of examples, pictures, numbers, but in this case, we use data with labels. The program learns from these examples. When the program learns enough, we can give it new examples it hasn't seen before, and it will try to guess what the right label is.
 
 - Key points
-  - Clustering
-  - Training Data
-  - Prediction
-  - Classification
-  - Regression
-  - Decision Boundary
-  - Overfitting
-  - Underfitting
-  - Bias-Variance Trade-off
-  - Ensemble Learning
-  - Test Data
-  - Feature
-  - Validation Data
-  - Accuracy
-  - Precision
-  - Recall
-  - F1 Score
-  - Random Forest
-  - Support Vector Machine (SVM)
-  - Cross-Validation
+  - **Clustering** : Clustering in machine learning is the process of grouping similar data points together in order to find patterns and structures within a dataset.
+  - **Training Data** : Training data is the information used to teach a computer model how to make predictions or decisions.
+  - **Prediction** : Prediction in machine learning is like guessing what might happen in the future based on patterns and information from the past.
+  - **Classification** : It is teaching computers to recognize and categorize things based on their features.
+  - **Regression** : It is a way to figure out the relationship between variables and make predictions based on that relationship.
+  - **Decision Boundary** : A decision boundary in machine learning is like an imaginary line that separates different categories or classes of data.
+  - **Overfitting**: Overfitting in machine learning is when a model learns the training data too well, capturing noise and making it perform poorly on new, unseen data.
+  - **Underfitting** : Underfitting in machine learning is when a model is too simple to capture the patterns in the data, resulting in poor performance.
+  - **Bias-Variance Trade-off** : The bias-variance trade-off in machine learning is about finding the right balance between making simple but possibly inaccurate predictions (bias) and making complex but possibly overfit predictions (variance). 
+  - **Ensemble Learning** : Ensemble learning in machine learning is when multiple models work together to make a more accurate prediction than any single model could.
+  - **Test Data** : Test data in machine learning is a separate set of examples that the model hasn't seen before, used to check how well the model can make accurate predictions on new, unseen information.
+  - **Feature**: A feature in machine learning is a characteristic or property of the data that helps the model understand and make predictions.
+  - **Validation Data**: Validation data in machine learning is a separate set of data used to check how well a model performs on new, unseen examples.
+  - **Accuracy** : Accuracy in machine learning measures how often a model's predictions are correct, showing how well it's doing its job.
+  - **Precision** : Precision in machine learning measures how accurate the positive predictions are among all the positive predictions made by a model.
+  - **Recall** : Recall in machine learning is the measure of how well a model finds all the relevant instances among all the actual instances.
+  - **F1 Score** : The F1 score in machine learning measures the balance between precision and recall, helping us understand how well a model finds relevant results while avoiding false positives and false negatives.
+  - **Random Forest** : Random Forest in machine learning is like asking a bunch of experts (decision trees) for advice and combining their opinions to make more accurate predictions.
+  - **Support Vector Machine (SVM)**: Support Vector Machine (SVM) in machine learning is like finding the best line that separates different groups of data points.
+  - **Cross-Validation** : Cross-validation in machine learning is a technique to test how well a model works by splitting the data into different parts and checking its performance on each part.
 
 ## Unsupervised Learning
 
@@ -55,25 +55,25 @@ Unsupervised learning is a bit of an adventure. Imagine you are in library and b
 This is exactly what you do in unsupervised learning. There are lots of data without any labels. Program looks at this data and tries to find patterns and similarities all by itself. It groups similar things together. The program keeps sorting and grouping until it thinks it found the best way to organize the data.
 
 - Key Points
-  - Clustering
-  - PCA (Principal Component Analysis)
-  - t-SNE
-  - Centroid
-  - Hierarchical Clustering
-  - HCA (Hierarchical Clustering Algorithm)
-  - Silhouette Score
-  - Outlier
-  - Gaussian Mixture Model
-  - Anomaly Detection
-  - Dimensionality Reduction
-  - K-means
-  - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-  - Agglomerative Clustering
-  - Divisive Clustering
-  - Affinity Propagation Algorithm
-  - Elbow Method
-  - Mini-Batch K-means
-  - Silhouette Score
+  - **Clustering**
+  - **PCA (Principal Component Analysis)**
+  - **t-SNE**
+  - **Centroid**
+  - **Hierarchical Clustering**
+  - **HCA (Hierarchical Clustering Algorithm)**
+  - **Silhouette Score**
+  - **Outlier**
+  - **Gaussian Mixture Model**
+  - **Anomaly Detection**
+  - **Dimensionality Reduction**
+  - **K-means**
+  - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
+  - **Agglomerative Clustering**
+  - **Divisive Clustering**
+  - **Affinity Propagation Algorithm**
+  - **Elbow Method**
+  - **Mini-Batch K-means**
+  - **Silhouette Score**
 
 ## Regression
 
