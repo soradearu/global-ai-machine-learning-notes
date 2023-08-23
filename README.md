@@ -55,27 +55,44 @@ Unsupervised learning is a bit of an adventure. Imagine you are in library and b
 This is exactly what you do in unsupervised learning. There are lots of data without any labels. Program looks at this data and tries to find patterns and similarities all by itself. It groups similar things together. The program keeps sorting and grouping until it thinks it found the best way to organize the data.
 
 - Key Points
-  - **Clustering**
+  - **Clustering** : Clustering in machine learning is the process of grouping similar data points together in order to find patterns and structures within a dataset.
   - **PCA (Principal Component Analysis)**
-  - **t-SNE**
-  - **Centroid**
-  - **Hierarchical Clustering**
-  - **HCA (Hierarchical Clustering Algorithm)**
-  - **Silhouette Score**
-  - **Outlier**
-  - **Gaussian Mixture Model**
-  - **Anomaly Detection**
-  - **Dimensionality Reduction**
-  - **K-means**
-  - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
-  - **Agglomerative Clustering**
-  - **Divisive Clustering**
-  - **Affinity Propagation Algorithm**
-  - **Elbow Method**
-  - **Mini-Batch K-means**
-  - **Silhouette Score**
+  - **t-SNE**: t-SNE (t-Distributed Stochastic Neighbor Embedding) is a machine learning technique that helps visualize and cluster high-dimensional data points in a lower-dimensional space while preserving their similarities.
+  - **Centroid**: A centroid in machine learning is like the average position of a group of data points, helping us understand the center of a cluster.
+  - **Hierarchical Clustering**: Hierarchical Clustering is a method to group data points based on their similarity, creating a tree-like structure of clusters known as dendogram.
+  - **Silhouette Score** : It measures how close each data point is to its own cluster compared to other clusters.
+  - **Outlier** : An outlier is a data point that's very different from the others and might affect the accuracy of predictions.
+  - **Gaussian Mixture Model** : A Gaussian Mixture Model is mixing different bell-shaped curves to describe complex patterns in data that might be made up of multiple underlying groups.
+  - **Anomaly Detection** : Anomaly detection is finding something unusual or unexpected in a group of things.
+  - **Dimensionality Reduction** : Dimensionality Reduction is simplifying a complicated puzzle by keeping only the important pieces, so it's easier to see patterns and understand the big picture.
+  - **K-means** : K-means is a way to group similar data points together into clusters by finding common patterns.
+  - **Mini-Batch K-means** : It is a faster way to group similar data points into clusters by processing small batches of data at a time instead of the entire dataset.
+  - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** : DBSCAN, is finding groups of points that are close to each other in a dataset, while also identifying points that don't belong to any group and might be outliers.
+  - **Agglomerative Clustering** :Agglomerative Clustering is joining the most similar data points together step by step to create groups. 
+  - **Divisive Clustering** : Divisive Clustering, is starting with all the data in one big group and then splitting it into smaller groups step by step to find similarities within the data.
+  - **Affinity Propagation Algorithm** : APA, is like a group chat where data points decide which point is the best representative for their group based on similarity and communication.
+  - **Elbow Method** :  It helps us find the best number of groups in clustering by looking for the "bend" point where adding more groups doesn't significantly improve the model.
+  - **Silhouette Score** : It measures how well-separated clusters are in data, helping us know if the clusters are distinct and well-defined.
 
 ## Regression
+Imagine you're running a pizza delivery business, and you want to figure out how long it will take for a pizza to be delivered based on the distance between your shop and the customer's location. Regression in machine learning is like using past delivery data to create a mathematical rule that helps you estimate delivery time. You look at the data for past deliveries, where you know the distance and delivery time, and you find a pattern. This pattern helps you predict future delivery times based on the distance, even for new customers. 
+  - **Prediction Tool** :
+  - **Linear Relationship** :
+  - **Best-Fit Line** :
+  - **Coefficients** :
+  - **Ordinary Least Squares (OLS)** :
+  - **Overfitting and Underfitting** :
+  - **Residuals** :
+  - **R-squared** :
+  - **Types of Regression** :
+  - **Assumptions** :
+  - **Multicollinearity** :
+  - **Interpretability** :
+  - **Evaluation Metrics** :
+  - **Real-world Applications** :
+  - **Improvement Techniques** :
+  - **Limitations** :
+
 
 ## Decision trees
 Decision tree is a tool that helps computers make choices. Instead of asking you questions, it uses facts and features to figure things out. The computer starts with a question, like "Is it red?" If the answer is yes, it might guess it's an apple. If the answer is no, it could guess it should be something else.
