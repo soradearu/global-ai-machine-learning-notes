@@ -1,7 +1,7 @@
 # GLOBAL AI HUB MACHINE LEARNING BOOTCAMP NOTES
 ![Generic badge](https://img.shields.io/badge/machine-learning-green.svg) ![Generic badge](https://img.shields.io/badge/AI-blue.svg)  [![Generic badge](https://img.shields.io/badge/globalaihub-blue.svg)](https://globalaihub.com/)
 <hr/>
-A repository that contains my notes from Global AI Hub Machine Learning Bootcamp mashed with my own research. I explained things the way I understand and tried to keep it simple. You can make pull requests and add more notes if you'd like. 
+A repository that contains my notes from Global AI Hub Machine Learning Bootcamp mashed with my own research. I explained things the way I understand and tried to keep it simple. You can make pull requests and add more notes if you'd like. i will keep adding more data as I expand my knowledge on the subject.
 <br>
 
 
